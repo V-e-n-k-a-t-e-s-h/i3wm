@@ -5,7 +5,7 @@ my simple config in i3wm
 
 To install i3wm
 
-/ Debian based distro
+### Debian based distro
 sudo apt-get install i3wm-gaps rofi dmenu i3locks i3blocks
 
 // fedora
