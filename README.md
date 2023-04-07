@@ -8,10 +8,10 @@ To install i3wm
 ### Debian based distro
 sudo apt-get install i3wm-gaps rofi dmenu i3locks i3blocks
 
-// fedora
+### fedora
 sudo dnf install i3wm-gaps rofi dmenu i3lock i3blocks
 
-//Arch
+### Arch
 sudo pacman -S i3wm-gaps xorg xorg-xdm dmenu i3status i3lock i3blocks
 
 replace your i3 config file with this to get the keybindings and polybar config
